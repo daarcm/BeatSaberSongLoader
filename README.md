@@ -5,6 +5,12 @@ A plugin for adding custom songs into Beat Saber.
 
 ## Installation Instructions
  1. Download the latest release from here: https://github.com/xyonico/BeatSaberSongLoader/releases
+ 
+ ***
+ Updated release to force difficulty rank - to be included in main release later
+ https://github.com/daarcm/BeatSaberSongLoader/releases/download/3.1.1/SongLoaderPlugin.dll
+ ***
+ 
  2. Extract the .zip file into the `Oculus Apps\Software\hyperbolic-magnetism-beat-saber` for Oculus Home OR `steamapps\common\Beat Saber` for Steam. (The one with Beat Saber.exe)
   
     The Beat Saber folder should look something like this:
